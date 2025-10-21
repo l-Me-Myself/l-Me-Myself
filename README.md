@@ -1,6 +1,5 @@
-<p align="center">  
 <img src="https://komarev.com/ghpvc/?username=p4rtypoison&style=water&base=1851&label=cookies&color=3EC197"/>
-</p>
+
 
 
 <div align="center">
