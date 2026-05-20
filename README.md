@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   
  [Click for Palestine](https://arab.org/click-to-help/palestine/)
  
