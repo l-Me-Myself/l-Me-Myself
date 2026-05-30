@@ -5,5 +5,6 @@
  socially awkward , c + h is always welcomed unless stated otherwise
  <br>
    <img src="https://komarev.com/ghpvc/?username=p4rtypoison&label=folk&color=080808&base=1241" alt="Profile Views"/>
-   <img src="https://file.garden/aFQP9esOHyVvl9zD/d.png">
+   
+   <img src="https://file.garden/aFQP9esOHyVvl9zD/d.png" width="300"/>
  </div>
